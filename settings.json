@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pertarius.aternos.me",
-    "port": 50340,
+    "ip": "RPP_SMP.aternos.me",
+    "port": 64614,
     "version": "1.21.11",
     "try-creative": false
   },
